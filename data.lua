@@ -55,11 +55,11 @@ buffTime[19930] = 30                    -- 玛尔里之眼
 
 buffTime[19947] = 15                    -- 纳特·帕格的卷尺
 buffTime[21180] = 20                    -- 大地之击
-buffTime[21181] = 0                      -- 大地之握
-buffTime[19951] = 0                      -- 格里雷克的力量护符
+buffTime[21181] = 0                     -- 大地之握
+buffTime[19951] = 0                     -- 格里雷克的力量护符
 buffTime[19952] = 15                    -- 格里雷克的勇气护符
-buffTime[19953] = 0                      -- 雷纳塔基的野兽护符
-buffTime[19954] = 0                      -- 雷纳塔基的狡诈护符
+buffTime[19953] = 0                     -- 雷纳塔基的野兽护符
+buffTime[19954] = 0                     -- 雷纳塔基的狡诈护符
 buffTime[19955] = 15                    -- 乌苏雷的自然护符
 buffTime[19956] = 20                    -- 乌苏雷的灵魂护符
 buffTime[19957] = 20                    -- 哈扎拉尔的毁灭护符
@@ -69,40 +69,38 @@ buffTime[19959] = 20                    -- 哈扎拉尔的魔法护符
 buffTime[20071] = 15                    -- 阿拉索护符
 buffTime[20072] = 15                    -- 污染者护符
 buffTime[22268] = 15                    -- 龙人能量徽章
-buffTime[21326] = 0                      -- 木喉防御者
-buffTime[14022] = 0                      -- 巴罗夫管家铃
-buffTime[14023] = 0                      -- 巴罗夫管家铃
+buffTime[21326] = 0                     -- 木喉防御者
 
-buffTime[13382] = 10                    -- 便携火炮
-buffTime[14023] = 0                      -- 巴罗夫管家铃
-buffTime[14023] = 0                      -- 巴罗夫管家铃
-buffTime[16022] = 60                    -- 奥金机械幼龙
 buffTime[22678] = 20                    -- 优越护符
-buffTime[18639] = 5                      -- 快速暗影反射器
 buffTime[11832] = 10                    -- 博学坠饰
-buffTime[18638] = 5                      -- 高辐射烈焰反射器
 buffTime[19024] = 20                    -- 竞技场大师饰物	
 buffTime[19990] = 20                    -- 祝福珠串	
-
 buffTime[20503] = 24                    -- 被迷惑的水之魂		
 buffTime[19992] = 10                    -- 魔暴龙牙		
 buffTime[20512] = 25                    -- 神圣宝珠		
 buffTime[20036] = 60                    -- 火焰宝石		
-buffTime[18634] = 5                      -- 超低温寒冰偏斜器		
-buffTime[1404] = 3                        -- 潮汐咒符			
-buffTime[2820] = 10                      -- 灵巧秒表			
-buffTime[10645] = 0                    	-- 侏儒死亡射线	
-
+		
+			
+	
 -- 工程
-buffTime[18984] = 0						-- 冬泉谷传送器
-buffTime[18986] = 0						-- 加基森传送器
-buffTime[10577] = 3						-- 地精迫击炮
-buffTime[10725] = 60					-- 侏儒作战小鸡
+buffTime[18984] = 0			-- 冬泉谷传送器
+buffTime[18986] = 0			-- 加基森传送器
+buffTime[10577] = 3			-- 地精迫击炮
+buffTime[13382] = 10                    -- 便携火炮
+buffTime[16022] = 60                    -- 奥金机械幼龙
+buffTime[10725] = 60			-- 侏儒作战小鸡
+buffTime[10645] = 0                    	-- 侏儒死亡射线
+buffTime[18634] = 5                     -- 超低温寒冰偏斜器
+buffTime[18638] = 5                     -- 高辐射烈焰反射器
+buffTime[18639] = 5                     -- 快速暗影反射器
+
 -- 任务/掉落
-buffTime[19141] = 0						-- 丝瓜
-buffTime[17744] = 0						-- 诺克赛恩之心
-
-
+buffTime[19141] = 0			-- 丝瓜
+buffTime[17744] = 0			-- 诺克赛恩之心
+buffTime[1404] = 3                      -- 潮汐咒符			
+buffTime[2820] = 10                     -- 灵巧秒表
+buffTime[14022] = 0                     -- 巴罗夫管家铃BL
+buffTime[14023] = 0                     -- 巴罗夫管家铃LM
 
 -- 主动饰品集合
 AQSELF.usable = {}
